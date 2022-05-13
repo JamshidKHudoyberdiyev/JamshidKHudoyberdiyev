@@ -2,7 +2,8 @@ Hi, Jamshid KHudoyberdiyev <br>
 I study The National of Unversity named of Mirza Ulug'bek <br>
 
 My telegram <a href="https://t.me/Jamshid_7112">
-<img src="https://mpng.subpng.com/20180605/ef/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg" width="30px">
+<img src="![image](https://user-images.githubusercontent.com/105453371/168376112-2cd90763-4340-450c-9d5f-515371567d34.png)
+" width="30px">
 </a>
 
 

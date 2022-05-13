@@ -14,5 +14,5 @@ Languages and Tools I work with  <br>
 <code><img src="https://icon-library.com/images/bootstrap-icon-png/bootstrap-icon-png-28.jpg" width="27px"></code>
 <br>
 
-📍 &nbsp; Current Location Jizzakh,Uzbekisatan
-📧 &nbsp; How to reach me:https://t.me/Jamshid_7112
+📍 &nbsp; Current Location Jizzakh,Uzbekisatan <br>
+📧 &nbsp; How to reach me:https://t.me/Jamshid_7112<br>

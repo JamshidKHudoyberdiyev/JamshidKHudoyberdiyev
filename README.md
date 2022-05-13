@@ -7,6 +7,6 @@ My telegram <a href="https://t.me/Jamshid_7112">
 
 
 Languages and Tools I work with  <br>
-<code><img src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
-<code>https://p.kindpng.com/picc/s/171-1718046_javascript-programming-language-logo-hd-png-download.png</code>
+<code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="27px"></code>
+<code><img src="https://e6.pngbyte.com/pngpicture/216513/png-Circle-Html-Css-css-logo.png" width="27px"></code>
+<code><img src="https://banner2.cleanpng.com/20180421/feq/kisspng-web-development-node-js-socket-io-javascript-netwo-modernization-5adab811677023.4675225415242834094237.jpg" width="27px"></code>

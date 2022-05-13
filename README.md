@@ -1,4 +1,4 @@
-Hi, Jamshid KHudoyberdiyev <br>
+Hi, I'm Jamshid KHudoyberdiyev <br>
 I study The National of Unversity named of Mirza Ulug'bek <br>
 
 My telegram <a href="https://t.me/Jamshid_7112">

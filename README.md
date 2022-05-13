@@ -2,8 +2,7 @@ Hi, Jamshid KHudoyberdiyev <br>
 I study The National of Unversity named of Mirza Ulug'bek <br>
 
 My telegram <a href="https://t.me/Jamshid_7112">
-<img src="![image](https://user-images.githubusercontent.com/105453371/168376112-2cd90763-4340-450c-9d5f-515371567d34.png)
-" width="30px">
+<img src="https://i.pinimg.com/originals/0a/50/c1/0a50c1516e434e0108649d2987cfaeb0.jpg" width="30px">
 </a>
 
 

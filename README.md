@@ -9,4 +9,4 @@ My telegram <a href="https://t.me/Jamshid_7112">
 Languages and Tools I work with  <br>
 <code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="27px"></code>
 <code><img src="https://e6.pngbyte.com/pngpicture/216513/png-Circle-Html-Css-css-logo.png" width="27px"></code>
-<code><img src="https://banner2.cleanpng.com/20180421/feq/kisspng-web-development-node-js-socket-io-javascript-netwo-modernization-5adab811677023.4675225415242834094237.jpg" width="27px"></code>
+<code><img src="https://www.pngkey.com/png/full/550-5509803_js-logo-javascript-logo-circle-png.png" width="27px"></code>
